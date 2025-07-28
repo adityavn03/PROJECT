@@ -2,13 +2,15 @@
 
 This project demonstrates how to integrate Solana wallet adapters (Phantom, MetaMask via Solflare) with a React + Vite app. It supports key wallet interactions including airdrop, checking balance, transferring SOL, signing messages, and connecting/disconnecting wallets.
 
+---
+
 ## 🚀 Tech Stack
 
 - [Vite](https://vitejs.dev/)
 - [React](https://reactjs.org/)
 - [@solana/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
 - [Phantom Wallet](https://phantom.app/)
-- [Solflare (MetaMask Compatible)](https://solflare.com/)
+- [Solflare Wallet (MetaMask Compatible)](https://solflare.com/)
 - [Solana Web3.js](https://solana-labs.github.io/solana-web3.js/)
 
 ---
@@ -27,7 +29,9 @@ This project demonstrates how to integrate Solana wallet adapters (Phantom, Meta
 
 ## 📸 Demo
 
-> Coming Soon – You can clone and run the project locally
+🌐 **Live Deployment**: [https://project-drab-six-69.vercel.app/](https://project-drab-six-69.vercel.app/)
+
+> Or clone and run the project locally.
 
 ---
 
@@ -36,5 +40,5 @@ This project demonstrates how to integrate Solana wallet adapters (Phantom, Meta
 ### 1. Clone the repository
 
 ```bash
-https://github.com/adityavn03/PROJECT.git
+git clone https://github.com/adityavn03/PROJECT.git
 cd solana-wallet-react-vite
