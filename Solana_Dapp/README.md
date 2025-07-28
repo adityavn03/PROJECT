@@ -36,5 +36,5 @@ This project demonstrates how to integrate Solana wallet adapters (Phantom, Meta
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/solana-wallet-react-vite.git
+https://github.com/adityavn03/PROJECT.git
 cd solana-wallet-react-vite
