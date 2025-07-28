@@ -1,12 +1,40 @@
-# React + Vite
+# 🔗 Solana Wallet Adapter with React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project demonstrates how to integrate Solana wallet adapters (Phantom, MetaMask via Solflare) with a React + Vite app. It supports key wallet interactions including airdrop, checking balance, transferring SOL, signing messages, and connecting/disconnecting wallets.
 
-Currently, two official plugins are available:
+## 🚀 Tech Stack
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [Vite](https://vitejs.dev/)
+- [React](https://reactjs.org/)
+- [@solana/wallet-adapter](https://github.com/solana-labs/wallet-adapter)
+- [Phantom Wallet](https://phantom.app/)
+- [Solflare (MetaMask Compatible)](https://solflare.com/)
+- [Solana Web3.js](https://solana-labs.github.io/solana-web3.js/)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Features
+
+✅ Connect and disconnect supported wallets  
+✅ Airdrop SOL to the connected address  
+✅ Check current wallet balance  
+✅ Transfer SOL from one address to another  
+✅ Sign and verify messages  
+✅ React Fast Refresh via Vite  
+✅ ESlint integration for consistent code style
+
+---
+
+## 📸 Demo
+
+> Coming Soon – You can clone and run the project locally
+
+---
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/solana-wallet-react-vite.git
+cd solana-wallet-react-vite
